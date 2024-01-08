@@ -4,7 +4,7 @@ This project utilised machine learning to analyse a fincancial dataset in order 
 
 # Process and dataset
 
-
+The dataset consisted of the following varibles: Loan ID, Customber ID, Current Loan amount, Term, Credit score, Annual income, Years in current job, Home ownership and bankrupty.
 
 1. Data import and cleaning
 2. Data Standardization
@@ -22,6 +22,8 @@ Deep learning models inspired by the human brain. They consist of layers of inte
 
 - Ensemble:
 A machine learning technique that involves combining the predictions of multiple models to improve overall performance and generalization.
+
+# Results
 
 # Applications:
 

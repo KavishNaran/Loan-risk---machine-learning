@@ -25,37 +25,6 @@ A machine learning technique that involves combining the predictions of multiple
 
 # Results
 
-# Random Forest
-Accuracy Score : 0.9794
-Classification Report
-              precision    recall  f1-score   support
-
-           0       1.00      0.98      0.99     17961
-           1       0.85      0.98      0.91      2210
-
-    accuracy                           0.98     20171
-   macro avg       0.92      0.98      0.95     20171
-weighted avg       0.98      0.98      0.98     20171
-
-# Neural Networks
-Accuracy Score : 0.8915
-Classification Report
-
-
-# Ensemble Model
-Classification Report
-Accuracy Score : 0.9876
-            precision    recall  f1-score   support
-
-           0       1.00      0.99      0.99     20075
-           1       0.28      1.00      0.44        96
-
-    accuracy                           0.99     20171
-   macro avg       0.64      0.99      0.71     20171
-weighted avg       1.00      0.99      0.99     20171
-
-
-
 # Applications:
 
 - Python
@@ -74,5 +43,3 @@ Kavish, Chang and Damian
 # References:
 
 Data: https://www.kaggle.com/datasets/zaurbegiev/my-dataset
-    :https://www.hackersrealm.net/post/loan-prediction-analysis-using-python                 
-    :https://www.irjmets.com/uploadedfiles/paper/volume3/issue_1_january_2021/5540/1628083223.pdf

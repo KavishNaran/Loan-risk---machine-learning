@@ -40,9 +40,9 @@ All links in this section take you directly to the file in the repository.
 
 
 ### [Jupyter Notebooks](jupyter-notebooks)
-- [untitled_project](Tupyter_Notebooks/untitled-project)
+- [untitled_project](Tupyter-Notebooks/untitled_project)
     - The folder contains trials result for the neural network model.
-- [Data Analysis.ipynb](Jupyter_Notebooks/data-analysis.ipynb)
+- [Data Analysis.ipynb](Jupyter-Notebooks/data_analysis.ipynb)
     - This file creates visualizations for features that may impact bankruptcies.
 - [Data Prepration.ipynb](jupyter_notebookss/data-prepration.ipynb)
     - The file contains codes for data cleaning, such as removing unwanted columns, removing null values, standardizing the dataset, and saving it as a database.
@@ -60,7 +60,7 @@ All links in this section take you directly to the file in the repository.
    macro avg       0.64      0.99      0.71     20171
 weighted avg       1.00      0.99      0.99     20171
 
-- [Neural Network.ipynb](jupter-notebooks/neural-network.ipynb)
+- [Neural Network.ipynb](jupter_notebooks/neural-network.ipynb)
     - The file contains codes about creating a neural network model. Deep learning models inspired by the human brain. They consist of layers of interconnected nodes and are used for complex tasks like image recognition and natural language processing.
     - Result
       Accuracy Score : 0.8884927464961888
@@ -74,7 +74,7 @@ weighted avg       1.00      0.99      0.99     20171
    macro avg       0.44      0.50      0.47     16268
 weighted avg       0.79      0.89      0.84     16268
 
-- [Random Forest Model.ipynb](jupter-notebooks/random-forest-model.ipynb)
+- [Random Forest Model.ipynb](jupter_notebooks/random-forest-model.ipynb)
     - The file contains codes about creating a random forest model that builds decision trees and merges their predictions, often improving the overall accuracy of the models.
     - Result
       Accuracy Score: 0.9794

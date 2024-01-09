@@ -40,13 +40,13 @@ All links in this section take you directly to the file in the repository.
 
 
 ### [Jupyter Notebooks](jupyter-notebooks)
-- [untitled_project](Tupyter-Notebooks/untitled-project)
+- [untitled_project](Tupyter_Notebooks/untitled-project)
     - The folder contains trials result for the neural network model.
-- [Data Analysis.ipynb](Jupyter-Notebooks/data-analysis.ipynb)
+- [Data Analysis.ipynb](Jupyter_Notebooks/data-analysis.ipynb)
     - This file creates visualizations for features that may impact bankruptcies.
-- [Data Prepration.ipynb](jupyter-notebookss/data-prepration.ipynb)
+- [Data Prepration.ipynb](jupyter_notebookss/data-prepration.ipynb)
     - The file contains codes for data cleaning, such as removing unwanted columns, removing null values, standardizing the dataset, and saving it as a database.
-- [Ensemble Model.ipynb](jupyter-notebooks/ensemble-model.ipynb)
+- [Ensemble Model.ipynb](jupyter_notebooks/ensemble-model.ipynb)
     - The file contains codes about creating an ensemble model, a machine-learning technique that involves combining the predictions of multiple models to improve overall performance and generalization.
     - Result
       Classification Report

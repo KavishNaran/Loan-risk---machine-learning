@@ -114,6 +114,4 @@ weighted avg       0.79      0.89      0.84     16268
 ### Data: https://www.kaggle.com/datasets/zaurbegiev/my-dataset
           https://www.hackersrealm.net/post/loan-prediction-analysis-using-python                 
           https://www.irjmets.com/uploadedfiles/paper/volume3/issue_1_january_2021/5540/1628083223.pdf
-
-
-https://electricvehiclecouncil.com.au/wp-content/uploads/2023/07/State-of-EVs_July-2023_.pdf 
+        
